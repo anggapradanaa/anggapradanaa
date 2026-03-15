@@ -18,9 +18,9 @@ I'm **Angga Yulian Adi Pradana**
 
 ## 🛠 Tech Stack
 
-- **Programming:** Python, R, SQL  
-- **Tools:** Jupyter Notebook, VS Code, Tableau, Excel  
-- **Libraries:** Pandas, NumPy, Scikit-learn, TensorFlow  
+**Programming:** Python, R, SQL  
+**Tools:** Jupyter Notebook, VS Code, Tableau, Excel  
+**Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Keras, OpenCV, NLTK
 
 ---
 
