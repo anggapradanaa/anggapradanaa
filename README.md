@@ -2,8 +2,8 @@
 
 <p>
   <a href="https://anggapradana.vercel.app"><img src="https://img.shields.io/badge/Portfolio-anggapradana.vercel.app-b8461f?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/anggayulianadipradana/"><img src="https://img.shields.io/badge/LinkedIn-anggayulianadipradana-2a1b14?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:anggayulianadipradana@gmail.com"><img src="https://img.shields.io/badge/Email-anggayulianadipradana%40gmail.com-2a1b14?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/anggayulianadipradana/"><img src="https://img.shields.io/badge/LinkedIn-anggayulianadipradana-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:anggayulianadipradana@gmail.com"><img src="https://img.shields.io/badge/Email-anggayulianadipradana%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 Hi, I'm Angga 👋 I studied mathematics at Universitas Negeri Semarang and now work across **data analysis, data science, and AI engineering**. I've analyzed official statistics at BPS, built credit scoring and lead scoring models, and shipped a RAG chatbot and a sign language recognition app that run in the browser. Most recently I spent six months as a Curriculum Developer Intern at Dicoding, teaching AI and data to bootcamp cohorts and live audiences of up to 1.2k viewers.
@@ -79,32 +79,32 @@ Hi, I'm Angga 👋 I studied mathematics at Universitas Negeri Semarang and now 
 ## 🛠 Toolkit
 
 **Data analysis**<br>
-<img src="https://img.shields.io/badge/SQL-2a1b14?style=flat-square&logo=postgresql&logoColor=white" alt="SQL">
-<img src="https://img.shields.io/badge/BigQuery-2a1b14?style=flat-square&logo=googlebigquery&logoColor=white" alt="BigQuery">
-<img src="https://img.shields.io/badge/Excel-2a1b14?style=flat-square" alt="Excel">
-<img src="https://img.shields.io/badge/Tableau-2a1b14?style=flat-square" alt="Tableau">
-<img src="https://img.shields.io/badge/Power%20BI-2a1b14?style=flat-square" alt="Power BI">
-<img src="https://img.shields.io/badge/Looker%20Studio-2a1b14?style=flat-square&logo=looker&logoColor=white" alt="Looker Studio">
-<img src="https://img.shields.io/badge/Pandas-2a1b14?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
+<img src="https://img.shields.io/badge/SQL-c96a3f?style=flat-square&logo=postgresql&logoColor=white" alt="SQL">
+<img src="https://img.shields.io/badge/BigQuery-c96a3f?style=flat-square&logo=googlebigquery&logoColor=white" alt="BigQuery">
+<img src="https://img.shields.io/badge/Excel-c96a3f?style=flat-square" alt="Excel">
+<img src="https://img.shields.io/badge/Tableau-c96a3f?style=flat-square" alt="Tableau">
+<img src="https://img.shields.io/badge/Power%20BI-c96a3f?style=flat-square" alt="Power BI">
+<img src="https://img.shields.io/badge/Looker%20Studio-c96a3f?style=flat-square&logo=looker&logoColor=white" alt="Looker Studio">
+<img src="https://img.shields.io/badge/Pandas-c96a3f?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
 
 **Data science & ML**<br>
-<img src="https://img.shields.io/badge/Python-2a1b14?style=flat-square&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/R-2a1b14?style=flat-square&logo=r&logoColor=white" alt="R">
-<img src="https://img.shields.io/badge/scikit--learn-2a1b14?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn">
-<img src="https://img.shields.io/badge/XGBoost-2a1b14?style=flat-square" alt="XGBoost">
-<img src="https://img.shields.io/badge/CatBoost-2a1b14?style=flat-square" alt="CatBoost">
-<img src="https://img.shields.io/badge/SHAP-2a1b14?style=flat-square" alt="SHAP">
-<img src="https://img.shields.io/badge/Streamlit-2a1b14?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit">
+<img src="https://img.shields.io/badge/Python-a8502a?style=flat-square&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/R-a8502a?style=flat-square&logo=r&logoColor=white" alt="R">
+<img src="https://img.shields.io/badge/scikit--learn-a8502a?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn">
+<img src="https://img.shields.io/badge/XGBoost-a8502a?style=flat-square" alt="XGBoost">
+<img src="https://img.shields.io/badge/CatBoost-a8502a?style=flat-square" alt="CatBoost">
+<img src="https://img.shields.io/badge/SHAP-a8502a?style=flat-square" alt="SHAP">
+<img src="https://img.shields.io/badge/Streamlit-a8502a?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit">
 
 **AI engineering**<br>
-<img src="https://img.shields.io/badge/LangChain-b8461f?style=flat-square&logo=langchain&logoColor=white" alt="LangChain">
-<img src="https://img.shields.io/badge/RAG-b8461f?style=flat-square" alt="RAG">
-<img src="https://img.shields.io/badge/Hugging%20Face-b8461f?style=flat-square&logo=huggingface&logoColor=white" alt="Hugging Face">
-<img src="https://img.shields.io/badge/TensorFlow-b8461f?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow">
-<img src="https://img.shields.io/badge/PyTorch-b8461f?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
-<img src="https://img.shields.io/badge/YOLOv8-b8461f?style=flat-square&logo=yolo&logoColor=white" alt="YOLOv8">
-<img src="https://img.shields.io/badge/Gemini-b8461f?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini">
-<img src="https://img.shields.io/badge/Git-b8461f?style=flat-square&logo=git&logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/LangChain-8f3315?style=flat-square&logo=langchain&logoColor=white" alt="LangChain">
+<img src="https://img.shields.io/badge/RAG-8f3315?style=flat-square" alt="RAG">
+<img src="https://img.shields.io/badge/Hugging%20Face-8f3315?style=flat-square&logo=huggingface&logoColor=white" alt="Hugging Face">
+<img src="https://img.shields.io/badge/TensorFlow-8f3315?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow">
+<img src="https://img.shields.io/badge/PyTorch-8f3315?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
+<img src="https://img.shields.io/badge/YOLOv8-8f3315?style=flat-square&logo=yolo&logoColor=white" alt="YOLOv8">
+<img src="https://img.shields.io/badge/Gemini-8f3315?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini">
+<img src="https://img.shields.io/badge/Git-8f3315?style=flat-square&logo=git&logoColor=white" alt="Git">
 
 ---
 
