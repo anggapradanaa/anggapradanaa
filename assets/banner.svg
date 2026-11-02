@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <defs>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#e9ddd4" stroke-width="1"/>
+    </pattern>
+    <style>
+      text { font-family: 'Inter', 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; }
+      .kicker { font-size: 17px; font-weight: 600; letter-spacing: 2.4px; fill: #b8461f; }
+      .name { font-size: 60px; font-weight: 500; letter-spacing: -1.5px; fill: #2a1b14; }
+      .sub { font-size: 22px; fill: #4a3a32; }
+      .url { font-size: 17px; font-weight: 600; fill: #2a1b14; }
+    </style>
+  </defs>
+  <rect width="1200" height="300" fill="#faf3ee"/>
+  <rect x="760" width="440" height="300" fill="url(#grid)"/>
+  <line x1="0" y1="1" x2="1200" y2="1" stroke="#2a1b14" stroke-width="2"/>
+  <line x1="0" y1="299" x2="1200" y2="299" stroke="#e9ddd4" stroke-width="2"/>
+
+  <text x="64" y="92" class="kicker">DATA ANALYSIS · DATA SCIENCE · AI ENGINEERING</text>
+  <text x="64" y="166" class="name">Angga Yulian Adi Pradana</text>
+  <text x="64" y="210" class="sub">Mathematics graduate, Universitas Negeri Semarang</text>
+  <text x="64" y="258" class="url">anggapradana.vercel.app →</text>
+  <line x1="64" y1="268" x2="300" y2="268" stroke="#2a1b14" stroke-width="1.5"/>
+
+  <!-- a small scatter plot with a fitted line, a nod to the data work -->
+  <g transform="translate(860 60)">
+    <line x1="0" y1="180" x2="280" y2="180" stroke="#7a685e" stroke-width="1.5"/>
+    <line x1="0" y1="0" x2="0" y2="180" stroke="#7a685e" stroke-width="1.5"/>
+    <g fill="#2a1b14">
+      <circle cx="22" cy="158" r="4.5"/><circle cx="46" cy="150" r="4.5"/><circle cx="64" cy="136" r="4.5"/>
+      <circle cx="88" cy="140" r="4.5"/><circle cx="104" cy="116" r="4.5"/><circle cx="128" cy="108" r="4.5"/>
+      <circle cx="146" cy="94" r="4.5"/><circle cx="170" cy="98" r="4.5"/><circle cx="190" cy="72" r="4.5"/>
+      <circle cx="212" cy="64" r="4.5"/><circle cx="236" cy="50" r="4.5"/><circle cx="258" cy="36" r="4.5"/>
+    </g>
+    <line x1="10" y1="168" x2="270" y2="30" stroke="#b8461f" stroke-width="3"/>
+  </g>
+</svg>
